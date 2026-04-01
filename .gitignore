@@ -1,0 +1,14 @@
+# Java compiled files
+*.class
+*.jar
+*.war
+*.ear
+ 
+# PyDev / Python (just in case)
+.pydevproject
+*.pyc
+__pycache__/
+ 
+# OS files
+.DS_Store
+Thumbs.db
